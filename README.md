@@ -26,7 +26,7 @@ I'm a Systems Analysis and Development student (UNIP) and a self-taught fullstac
 
 ---
 
-### 🛠️ Stack
+###  My Stack
 
 **Frontend:** JavaScript · TypeScript · React · React Native · Next.js · Tailwind CSS
 **Backend:** Node.js · Python · PostgreSQL · REST APIs · JWT
@@ -36,7 +36,7 @@ I'm a Systems Analysis and Development student (UNIP) and a self-taught fullstac
 
 ---
 
-### 📫 Contato / Contact
+### Contato / Contact
 
 - LinkedIn: [linkedin.com/in/mateusgoularte](https://linkedin.com/in/mateusgoularte)
 - Email: mateusgoularte2008@gmail.com
