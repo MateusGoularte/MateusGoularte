@@ -2,11 +2,11 @@
 
 **Português**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (UNIP) e desenvolvedor fullstack autônomo, construindo sistemas completos do zero — do banco de dados ao deploy — com Next.js, React, Node.js e PostgreSQL. Uso IA (Claude Code) como parte real do meu fluxo de trabalho: para arquitetura, geração de código e debugging, sempre questionando e validando o que ela sugere. Sou comunicativo, curioso e gosto de resolver problema técnico de ponta a ponta.
+Sou estudante de Análise e Desenvolvimento de Sistemas (UNIP) e desenvolvedor fullstack autônomo, construindo sistemas completos do zero — do banco de dados ao deploy, com Next.js, React, Node.js e PostgreSQL. Uso IA (Claude Code) como parte real do meu fluxo de trabalho: para arquitetura, geração de código e debugging, sempre questionando e validando o que ela sugere. Sou comunicativo, curioso e gosto de resolver problema técnico de ponta a ponta.
 
 **English**
 
-I'm a Systems Analysis and Development student (UNIP) and a self-taught fullstack developer, building complete systems from scratch — from database to deployment — with Next.js, React, Node.js, and PostgreSQL. I use AI (Claude Code) as a real part of my workflow: for architecture, code generation, and debugging, always questioning and validating what it suggests. I'm communicative, curious, and enjoy owning a technical problem end-to-end.
+I'm a Systems Analysis and Development student (UNIP) and a self-taught fullstack developer, building complete systems from scratch — from database to deployment, with Next.js, React, Node.js, and PostgreSQL. I use AI (Claude Code) as a real part of my workflow: for architecture, code generation, and debugging, always questioning and validating what it suggests. I'm communicative, curious, and enjoy owning a technical problem end-to-end.
 
 ---
 
